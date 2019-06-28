@@ -1,0 +1,24 @@
+
+.infoPanel {
+  background: rgba(28,28,28,0.8);
+  border-radius: 4px;
+  color: #fff;
+  left: 10px;
+  position: absolute;
+  top: 60px;
+  z-index: 64;
+  min-width: 22em;
+  font-size: 11px;
+}
+
+.infoPanelContent {
+  padding: 5px;
+}
+
+.infoPanelContent>div>div {
+  display: inline-block;
+  font-weight: 500;
+  padding: 0 .5em;
+  text-align: right;
+  width: 9em;
+}
