@@ -34,7 +34,7 @@
     "mobx-react": "^5.4.3",
     "mobx-react-router": "^4.0.5",
     "pili-rtc-web": "^2.2.1",
-    "qs": "^6.6.0",
+    "qs": "^6.6.1",
     "react": "^16.6.3",
     "react-app-polyfill": "^0.2.0",
     "react-avatar": "^3.5.0",
